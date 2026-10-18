@@ -1,0 +1,5 @@
+docling
+pymupdf
+pypdf
+Pillow
+torch

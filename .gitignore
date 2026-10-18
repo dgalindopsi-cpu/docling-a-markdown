@@ -1,0 +1,13 @@
+venv/
+.venv*/
+work/
+__pycache__/
+*.py[cod]
+*.log
+*.pdf
+*.docx
+*.pptx
+*.md
+!README.md
+docling_pdf2md  LEGACY.py
+docling_pdf2md  xd.py
