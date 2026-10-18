@@ -9,4 +9,4 @@ Conversor para Windows de PDF, DOCX y PPTX a Markdown. Incluye interfaz gráfica
 3. Para OCR, instala Tesseract OCR. La ruta predeterminada es `C:\Program Files\Tesseract-OCR\tesseract.exe`.
 4. Ejecuta `iniciar_docling.bat` y elige consola o interfaz gráfica.
 
-El procesamiento puede usar GPU o CPU según la configuración y el hardware disponible. El archivo principal es `docling_pdf2md.py`; los archivos con sufijos `LEGACY` y `xd` son versiones anteriores conservadas como referencia.
+El procesamiento puede usar GPU o CPU según la configuración y el hardware disponible. El archivo principal es `docling_pdf2md.py`.
